@@ -4,7 +4,7 @@
 * Radial Basis Function Neural Network
 * Stacked Autoencoders
 * Extreme Learning Machines
-* Deep Neural Network
+* Deep Neural Network (Autoencoder + ELM)
 
 ## Data
 * Data has 72 features
