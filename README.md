@@ -1,4 +1,4 @@
-# Neural-Network-Implemetations
+# Neural-Network-Implementations
 ## Implementing following Neural Networks
 * Multi Layer Perceptron
 * Radial Basis Function Neural Network
